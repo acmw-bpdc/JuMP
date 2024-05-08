@@ -4,7 +4,7 @@
 
 ### Setting up
 ```
-git clone https://github.com/acmw-bpdc/JuMP/edit/main/2021-2022/App_Dev/chat-bot.git
+git clone https://github.com/acmw-bpdc/JuMP/2021-2022/App_Dev/chat-bot.git
 ```
 
 ### Prerequisites
